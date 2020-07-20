@@ -65,7 +65,7 @@ comments: true
                 count += 1
         print(count)
 
-![두 점 사이의 공식](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4353_000_1%2F20160404162626424_67IF8YTCE.png%2Fcd5_m37_3_clear.png%3Ftype%3Dw690_fst%26wm%3DN%22&twidth=726.16&theight=429.2&opts=17&sharpen=true)
+![두 점 사이의 공식](https://terms.naver.com/entry.nhn?docId=3350310&cid=60210&categoryId=60210)
 
 두 점 사이의 거리 공식을 사용해서 풀 수 있었다.  
 python의 math 모듈 함수를 이용했다.
