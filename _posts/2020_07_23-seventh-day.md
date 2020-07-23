@@ -56,6 +56,6 @@ for i in range(0, b - 2):
                 if a[i] + a[j] + a[k] > m:
                     continue
                 else:
-                    answer = max(sum, a[i] + a[j] + a[k])
+                    answer = max(answer, a[i] + a[j] + a[k])
 print(answer)
 
